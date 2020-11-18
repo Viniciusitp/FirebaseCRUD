@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseCRUD</string>
+    <string name="destinatario">Destinatario</string>
+    <string name="remetente">Remetente</string>
+    <string name="title_recados">Recados</string>
+    <string name="subtitle_activity_main">Del anime</string>
+    <string name="title_add">Novo Recado</string>
+    <string name="remetente_form">Remetente</string>
+    <string name="destinatario_form">Destinatário</string>
+    <string name="recado_form">Recado</string>
+    <string name="save">Salvar</string>
+    <string name="recado">Recado</string>
+    <string name="title_edit">Dados do Recado</string>
+</resources>
